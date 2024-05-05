@@ -10,5 +10,6 @@ Files and folders description:
 the distribution of jobs number?)
 6. 3_gemini_jobs_parsing.ipynb - jobs data parsing using Google's Gemini LLM.
 7. 4_jobs_data_fixing.ipynb - exploring and fixing some errors of the Gemini's responses.
-8. 5_jobs_data_analysis.ipynb - the main notebook that contains all the model code and jobs data processing (preprocessing, embedding, clustering, exploring the clusters)
-9. trash.ipynb - some trash code that was moved from other notebooks (useless for now).
+8. 5_jobs_data_analysis.ipynb - the main notebook that contains all the model code and jobs data processing (preprocessing, embedding, clustering, exploring the clusters).
+9. profiles_analysis - some exploration and analysis of LinkedIn users information about education, skills etc. We didn't integrate it in the final project (lack of time and space in the report), but it may be a next step in the research.
+10. trash.ipynb - some trash code that was moved from other notebooks (useless for now).
